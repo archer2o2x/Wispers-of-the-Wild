@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://dia28a1nuxoul"]
+
+[ext_resource type="Script" path="res://Scripts/YAMLParser.gd" id="1_71dq8"]
+
+[node name="Node" type="Node"]
+script = ExtResource("1_71dq8")
